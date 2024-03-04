@@ -1,4 +1,5 @@
 {
     "test": "Test",
-    "new_key": "New key added via weblate"
+    "new_key": "New key added via weblate",
+    "feature_key": "String only in feature branch"
 }
